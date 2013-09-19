@@ -1,3 +1,11 @@
+/*
+
+EM-Counter (ver0.1 Alpha 1)
+
+Powered by DKnML
+
+*/
+
 package com.example.em_counter;
 
 import java.util.Timer;
